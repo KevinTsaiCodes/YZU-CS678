@@ -11,6 +11,5 @@ Syllabus: [Link](https://portalfun.yzu.edu.tw/cosSelect/Cos_Plan.aspx?y=112&s=1&
 Lecture Videos: [Link](https://www.youtube.com/playlist?list=PLcbxnci9lKlre5ao8CX6vkn3BDbbJNYE7)
 
 **Notes**: [Link](https://github.com/KevinTsaiCodes/YZU-CS678/tree/main/Notes)
-- WEEK 01
 
 **Python Implmentation**: [Link](https://github.com/KevinTsaiCodes/YZU-CS678/tree/main/Python%20Implmentation)
